@@ -1,5 +1,4 @@
 ## Script to bulk asign devices to a specific site
-## Script assigns 1 device with 1 site, can be easily adjusted
 
 import requests
 import urllib3
